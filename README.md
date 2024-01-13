@@ -1,9 +1,8 @@
+# Hi there, I'm <a href="https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/" target="_blank" rel="noopener noreferrer">Isaac Mejia</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-
-<!--horizontal divider(gradiant)-->
-![line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<!--h1 without bottom border-->
-## <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/" target="_blank" rel="noopener noreferrer">Isaac Mejia</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<img src="https://komarev.com/ghpvc/?username=IsaacMeF&color=blue" alt="Profile views" /> <a href="https://github.com/isaacMeF?tab=followers">
+  <img src="https://img.shields.io/github/followers/IsaacMeF?style=social" alt="Followers" />
+</a>
 
 
 <!--- snake -->
@@ -14,7 +13,7 @@
 
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
-## GitHub Statistics
+# GitHub Statistics
 <p align="center">
 <table align="center">
   <tr border="none">
@@ -31,7 +30,7 @@
 
 
 <!--- stats (end) -->
-## Github Trophies
+# GitHub Trophies
 <div align ="center"> 
   <img  width=84% src="https://github-profile-trophy.vercel.app/?username=IsaacMeF&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
@@ -40,29 +39,10 @@
 
 <!--h1 without bottom border-->
 
-## Technologies That I Know👨🏻‍💻
-
+# Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask&perline=14" />
   </a>
 </p>
-
-## Connect With Me
-
-<!--icons and links-->
-<p align="center">
-  <a href="www.linkedin.com/in/isaac-mejía-flores-a95b47248" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
