@@ -17,8 +17,8 @@
 ## GitHub Statistics
 
 <div align ="center"> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=IsaacMeF&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40" /> 
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMeF&theme=tokyonight&background=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5De&text_color=b3b3ff" /> 
+  <img  width=50% src="https://github-readme-stats.vercel.app/api?username=IsaacMeF&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40" /> 
+  <img  width=50% alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMeF&theme=tokyonight&background=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5De&text_color=b3b3ff" /> 
   <img  width=84% src="https://github-profile-trophy.vercel.app/?username=IsaacMeF&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
 
