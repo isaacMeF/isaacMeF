@@ -26,7 +26,7 @@
       <img  width=90% alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMeF&theme=tokyonight&background=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5De&text_color=b3b3ff" /> 
     </td>
     <td width="50%" align="center">
-      <img width=90% align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaacMeF&theme=tokyonight&hide_border=false&no-bg=true&no-frame=false&langs_count=10&layout=compact&hide=css,vue"/>
+      <img width=90% align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaacMeF&theme=tokyonight&hide_border=false&no-bg=true&no-frame=false&langs_count=10&layout=compact&hide=css,vue&text_color=b3b3ff&bg_color=0,000000,130F40"/>
     </td>
   </tr>
 </table>
