@@ -1,8 +1,12 @@
-# Hi there, I'm <a href="https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/" target="_blank" rel="noopener noreferrer">Isaac Mejia</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<div align=left>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+IsaacMeF+%F0%9F%91%8B;Computer+Systems+Engineer;Back-End+developer;Enthusiastic+about+programming;" alt="Headline" />
+</div>
+<hr/>
 
 <img src="https://komarev.com/ghpvc/?username=IsaacMeF&color=blue" alt="Profile views" /> <a href="https://github.com/isaacMeF?tab=followers">
   <img src="https://img.shields.io/github/followers/IsaacMeF?style=social" alt="Followers" />
-</a>
+</a> [![Linkedin](https://img.shields.io/badge/-IsaacMeF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:isaac2000202@gmail.com)
+
 
 
 <!--- snake -->
@@ -13,7 +17,7 @@
 
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
-# GitHub Statistics
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics 
 <p align="center">
 <table align="center">
   <tr border="none">
@@ -27,10 +31,8 @@
   </tr>
 </table>
 
-
-
 <!--- stats (end) -->
-# GitHub Trophies
+# <img src="https://media.giphy.com/media/xUPGcECDtcpmUDIeQw/giphy.gif" width = 32px>   GitHub Trophies
 <div align ="center"> 
   <img  width=84% src="https://github-profile-trophy.vercel.app/?username=IsaacMeF&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
@@ -39,10 +41,10 @@
 
 <!--h1 without bottom border-->
 
-# Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Tech Stack
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask,graphql&perline=14" />
   </a>
 </p>
