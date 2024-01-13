@@ -15,11 +15,19 @@
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
 ## GitHub Statistics
+<p align="center">
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  width=90% src="https://github-readme-stats.vercel.app/api?username=IsaacMeF&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40" /> 
+      <img  width=90% alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMeF&theme=tokyonight&background=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5De&text_color=b3b3ff" /> 
+    </td>
+    <td width="50%" align="center">
+      <img width=90% align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsaacMeF&theme=tokyonight&hide_border=false&no-bg=true&no-frame=false&langs_count=10&layout=compact&hide=css,vue"/>
+    </td>
+  </tr>
+</table>
 
-<div align ="center"> 
-  <img  width=50% src="https://github-readme-stats.vercel.app/api?username=IsaacMeF&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40" /> 
-  <img  width=50% alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMeF&theme=tokyonight&background=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5De&text_color=b3b3ff" /> 
-</div>
 
 
 <!--- stats (end) -->
