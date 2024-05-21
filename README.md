@@ -7,14 +7,6 @@
   <img src="https://img.shields.io/github/followers/IsaacMeF?style=social" alt="Followers" />
 </a> [![Linkedin](https://img.shields.io/badge/-IsaacMeF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:isaac2000202@gmail.com)
 
-
-
-<!--- snake -->
-<div align="left">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics 
