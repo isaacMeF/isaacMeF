@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=IsaacMeF&color=blue" alt="Profile views" /> <a href="https://github.com/isaacMeF?tab=followers">
   <img src="https://img.shields.io/github/followers/IsaacMeF?style=social" alt="Followers" />
-</a> [![Linkedin](https://img.shields.io/badge/-IsaacMeF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:isaac2000202@gmail.com)
+</a> [![Linkedin](https://img.shields.io/badge/-IsaacMeF-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-mejía-flores-a95b47248/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:isaac.mejia@tecnobunny.com)
 
 <!--- stats & Trophy (start) -->
   <!--- stats (start) -->
