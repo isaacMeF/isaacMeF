@@ -24,12 +24,6 @@
 </table>
 
 <!--- stats (end) -->
-# <img src="https://media.giphy.com/media/xUPGcECDtcpmUDIeQw/giphy.gif" width = 32px>   GitHub Trophies
-<div align ="center"> 
-  <img  width=84% src="https://github-profile-trophy.vercel.app/?username=IsaacMeF&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</div>
-
-
 
 <!--h1 without bottom border-->
 
@@ -37,6 +31,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask,graphql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask,graphql,lambda,dynamodb&perline=14" />
   </a>
 </p>
