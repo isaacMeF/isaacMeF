@@ -31,6 +31,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask,graphql,lambda,dynamodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,express,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,ts,vscode,postgresql,nestjs,opencv,redis,spring,flask,graphql&perline=14" />
   </a>
 </p>
